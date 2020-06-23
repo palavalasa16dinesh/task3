@@ -1,0 +1,23 @@
+{
+    "profiles":[
+        {
+             "basics":{
+                 "name":"Krishna Priya",
+                 "Role":"Student",
+                 "email":"krishnapriyatallaprgada@gmail.com",
+                 "Mobile no.":"9876067890",
+                 "Address":"Rajahmundry, Andhra Pradesh"
+             }
+        },
+        {
+            "basics":{
+                "name":"Priya Tallapragada",
+                "Role":"Writer",
+                "email":"priyatallaprgada@outlook.com",
+                "Mobile no.":"9877767890",
+                "Address":"Rajahmundry, Andhra Pradesh"
+            }
+
+        }
+    ]
+}
